@@ -2,7 +2,7 @@
 
 # Hotel Customer Segmentation Project
 A hotel's customers personal, behavioral, demographic, and geographic dataset from Lisbon, Portugal (2015-2018).
-
+Antonio, N., de Almeida, A., & Nunes, L. (2020). A hotel's customers personal, behavioral, demographic, and geographic dataset from Lisbon, Portugal (2015–2018). Data in Brief, 33, 106583. https://doi.org/10.1016/j.dib.2020.106583. Retrieved from https://www.sciencedirect.com/science/article/pii/S2352340920314645
 </div>
 
 ## CRISP-DM Methodology
