@@ -84,3 +84,48 @@ For any additional questions, don't hesitate to get in touch with one of the ins
 For further details [original article](https://www.sciencedirect.com/science/article/pii/S2352340920314645)
 
 - Antonio, N., de Almeida, A., & Nunes, L. (2020). A hotel's customers personal, behavioral, demographic, and geographic dataset from Lisbon, Portugal (2015–2018). Data in Brief, 33, 106583. https://doi.org/10.1016/j.dib.2020.106583. Retrieved from https://www.sciencedirect.com/science/article/pii/S2352340920314645
+
+### Imports
+This project has following libraries:
+```python
+
+# Data Manipulation and Analysis
+import pandas as pd
+import numpy as np
+
+# Data Visualization
+import matplotlib.pyplot as plt
+import seaborn as sns
+import altair as alt
+from yellowbrick.cluster import InterclusterDistance
+from yellowbrick.cluster import SilhouetteVisualizer
+
+# Data Preprocessing
+from sklearn import preprocessing
+
+# Clustering
+from sklearn.cluster import KMeans
+from sklearn.metrics import silhouette_score
+from yellowbrick.cluster import KElbowVisualizer
+
+# Dendogram
+import riskfolio as rp
+
+# Dimensionality Reduction
+from sklearn.decomposition import PCA
+
+# Additional Utilities
+import matplotlib.ticker as ticker
+
+%matplotlib inline
+
+# Ignore FutureWarnings
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
+# Set seaborn style
+sns.set_style("whitegrid")
+
+# Set the max_columns option to None to display all columns
+pd.set_option('display.max_columns', None)
+```
