@@ -44,3 +44,43 @@ Instead of applying on the traditional hospitality segmentation to divide custom
 
 For any additional questions, don't hesitate to get in touch with one of the instructors. The instructors will also act as the hotel company/project stakeholder.
 
+### Dataset Description   
+<br>
+
+| Variable             | Type       | Description                                                                                                                             |
+|----------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| ID                   | Numeric    | Customer ID                                                                                                                             |
+| Nationality          | Categorical| Country of origin. Categories are represented in the ISO 3155–3:2013 format                                                             |
+| Age                  | Numeric    | Customer's age (in years) at the last day of the extraction period                                                                     |
+| DaysSinceCreation    | Numeric    | Number of days since the customer record was created (number of days elapsed between the creation date and the last day of extraction) |
+| NameHash             | Categorical| SHA2–256 hash-string of the customer's name.                                                                                            |
+| DocIDHash            | Categorical| SHA2–256 hash-string of the identification document number the customer provided at check-in (passport number, national ID card number, or other)|
+| AverageLeadTime      | Numeric    | The average number of days elapsed between the customer's booking date and arrival date.                                                 |
+| LodgingRevenue       | Numeric    | Total amount spent on lodging expenses by the customer (in Euros). Includes room, crib, and other related lodging expenses              |
+| OtherRevenue         | Numeric    | Total amount spent on other expenses by the customer (in Euros). Includes food, beverage, spa, and other expenses                        |
+| BookingsCanceled     | Numeric    | Number of bookings made by the customer but subsequently canceled (the customer informed the hotel they would not come to stay)         |
+| BookingsNoShowed     | Numeric    | Number of bookings made by the customer but subsequently marked as a “no-show” (the customer did not cancel but did not check-in)       |
+| BookingsCheckedIn    | Numeric    | Number of bookings made by the customer that resulted in a stay                                                                         |
+| PersonsNights        | Numeric    | The total number of persons/nights that the customer stayed at the hotel. Calculated by summing all customers' checked-in bookings’ persons/nights.   |
+| RoomNights           | Numeric    | Total room/nights the customer stayed at the hotel (checked-in bookings). Calculated as the multiplication of the number of rooms of each booking by the number of nights of the booking |
+| DaysSinceLastStay    | Numeric    | The number of days elapsed between the last day of the extraction and the customer's last arrival date (of a checked-in booking). A value of −1 indicates the customer never stayed at the hotel |
+| DaysSinceFirstStay   | Numeric    | The number of days elapsed between the last day of the extraction and the customer's first arrival date (of a checked-in booking). A value of −1 indicates the customer never stayed at the hotel |
+| DistributionChannel  | Categorical| Distribution channel usually used by the customer to make bookings at the hotel                                                         |
+| MarketSegment        | Categorical| Current market segment of the customer                                                                                                  |
+| SRHighFloor          | Boolean    | Indication if the customer usually asks for a room on a higher floor (0: No, 1: Yes)                                                   |
+| SRLowFloor           | Boolean    | Indication if the customer usually asks for a room on a lower floor (0: No, 1: Yes)                                                    |
+| SRAccessibleRoom     | Boolean    | Indication if the customer usually asks for an accessible room (0: No, 1: Yes)                                                          |
+| SRMediumFloor        | Boolean    | Indication if the customer usually asks for a room on a middle floor (0: No, 1: Yes)                                                   |
+| SRBathtub            | Boolean    | Indication if the customer usually asks for a room with a bathtub (0: No, 1: Yes)                                                       |
+| SRShower             | Boolean    | Indication if the customer usually asks for a room with a shower (0: No, 1: Yes)                                                        |
+| SRCrib               | Boolean    | Indication if the customer usually asks for a crib (0: No, 1: Yes)                                                                      |
+| SRKingSizeBed        | Boolean    | Indication if the customer usually asks for a room with a king-size bed (0: No, 1: Yes)                                                |
+| SRTwinBed            | Boolean    | Indication if the customer usually asks for a room with a twin bed (0: No, 1: Yes)                                                      |
+| SRNearElevator       | Boolean    | Indication if the customer usually asks for a room near the elevator (0: No, 1: Yes)                                                   |
+| SRAwayFromElevator   | Boolean    | Indication if the customer usually asks for a room away from the elevator (0: No, 1: Yes)                                               |
+| SRNoAlcoholInMiniBar| Boolean    | Indication if the customer usually asks for a room with no alcohol in the mini-bar (0: No, 1: Yes)                                     |
+| SRQuietRoom          | Boolean    | Indication if the customer usually asks for a room away from the noise (0: No, 1: Yes)                                                  |
+
+For further details [original article](https://www.sciencedirect.com/science/article/pii/S2352340920314645)
+
+- Antonio, N., de Almeida, A., & Nunes, L. (2020). A hotel's customers personal, behavioral, demographic, and geographic dataset from Lisbon, Portugal (2015–2018). Data in Brief, 33, 106583. https://doi.org/10.1016/j.dib.2020.106583. Retrieved from https://www.sciencedirect.com/science/article/pii/S2352340920314645
