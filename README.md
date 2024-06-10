@@ -27,3 +27,8 @@ CRISP-DM is like our roadmap for exploring and understanding data. It breaks dow
 *    **Deployment**: plan deployment; plan monitoring and maintenance; produce final report; review project (deployment was not required for this project)
 
 [Reference](https://github.com/mbenetti/CRISP-DM-Rossmann/blob/master/README.md)
+
+### **Introduction**
+<p>Finding new customers is vital in every industry. The process for finding new customers begins by learning as much as possible from the existing customers. Understanding current customers allow organizations to identify groups of customers that have different product interests, different market participation, or different response to marketing efforts. Market segmentation, the process of identifying customers’ groups, makes use of geographic, demographic, psychographic, and behavioral characteristics of customers. By understanding the differences between the different segments, organizations can make better strategic choices about opportunities, product definition, positioning, promotions, pricing, and target marketing. Like most hotels, hotel H , a hotel located in Lisbon, Portugal, member of the independent hotel chain C, uses a hospitality standard market segmentation based on the origin of the customer. However, A, the new marketing manager of hotel H, recognized that this type of segmentation, as is today well-known, is not useful for the hotel marketing department.</p>
+
+
