@@ -129,3 +129,4 @@ sns.set_style("whitegrid")
 # Set the max_columns option to None to display all columns
 pd.set_option('display.max_columns', None)
 ```
+### Results
