@@ -188,5 +188,5 @@ Cluster 2: **Senior Balanced Preferences**
 <br>
 
 <p align="center">
-  <img width="500" height="500" src="images/Explained-variance-by-components.png">
+  <img width="400" height="300" src="images/Explained-variance-by-components.png">
 </p>
