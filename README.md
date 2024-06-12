@@ -202,5 +202,5 @@ Cluster 2: **Senior Balanced Preferences**
 <br>
 
 <p align="center">
-  <img width="450" height="350" src="images/Silhoutte-score.png">
+  <img width="500" height="500" src="images/Silhoutte-score.png">
 </p>
