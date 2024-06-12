@@ -188,7 +188,7 @@ Cluster 2: **Senior Balanced Preferences**
 <br>
 
 <p align="center">
-  <img width="500" height="400" src="images/Explained-variance-by-components.png">
+  <img width="450" height="350" src="images/Explained-variance-by-components.png">
 </p>
 
 ### Elbow method
@@ -202,5 +202,5 @@ Cluster 2: **Senior Balanced Preferences**
 <br>
 
 <p align="center">
-  <img width="500" height="400" src="images/Silhoutte-score.png">
+  <img width="450" height="350" src="images/Silhoutte-score.png">
 </p>
