@@ -181,7 +181,7 @@ Cluster 2: **Senior Balanced Preferences**
 <br>
 
 <p align="center">
-  <img width="600" height="200" src="images/Dendogram.png">
+  <img width="700" height="300" src="images/Dendogram.png">
 </p>
 
 ### Explained varience by components
