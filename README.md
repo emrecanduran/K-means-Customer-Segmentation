@@ -204,3 +204,10 @@ Cluster 2: **Senior Balanced Preferences**
 <p align="center">
   <img width="400" height="300" src="images/Silhoutte-score.png">
 </p>
+
+### Silhouette plot in 3 center cluster
+<br>
+
+<p align="center">
+  <img width="400" height="300" src="images/Silhoutte-plot.png">
+</p>
