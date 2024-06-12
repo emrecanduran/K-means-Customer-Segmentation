@@ -232,3 +232,10 @@ Cluster 2: **Senior Balanced Preferences**
 <p align="center">
   <img width="400" height="300" src="images/Cardinality-magnitude.png">
 </p>
+
+### Intercluster distance map:
+<br>
+
+<p align="center">
+  <img width="400" height="300" src="images/Intercluster-distance-map.png">
+</p>
