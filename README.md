@@ -201,6 +201,12 @@ I have decided to choose 13 components that collectively explain 96% of the cumu
   <img width="550" height="350" src="images/Elbow-method.png">
 </p>
 
+Although the Elbow Method suggests 6 clusters based on the distortion score and the Silhouette method suggests 9 clusters, I prefer to go with 3 clusters, here's why:
+
+- Firstly, having fewer clusters makes it easier to interpret the results.
+- Secondly, I am worried about overfitting if we have too many clusters, so keeping it simple with 3 seems like a safer bet.
+- Thirdly, it'll be more computationally efficient. So, while the Elbow Method gives us one perspective, there are other factors to consider in making the final decision.
+
 ### Silhouette method:
 <br>
 
