@@ -177,7 +177,9 @@ Cluster 2: **Senior Balanced Preferences**
 - *Room Type*: Balanced preference between King Size and Twin Beds.
 - *Age*: Predominantly aged 50-59, followed by those aged 60 and above.
 
-**Dendogram**
+### Dendogram
+<br>
+
 <p align="center">
-  <img width="500" height="350" src="images/Dendogram.png">
+  <img width="600" height="500" src="images/Dendogram.png">
 </p>
