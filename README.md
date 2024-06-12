@@ -184,12 +184,15 @@ Cluster 2: **Senior Balanced Preferences**
   <img width="700" height="300" src="images/Dendogram.png">
 </p>
 
+Initially, each variable forms its own cluster, resulting in 18 clusters. Among these, TotalRevenue and PersonsNights are the most similar based on the features considered, reducing the clusters to 10 at this stage. The distance between clusters indicates the similarity between observations. The number of clusters in a dendrogram is not fixed and can vary depending on business needs. For this project, 5 clusters would be optimal based on the dendogram.
+
 ### Explained varience by components:
 <br>
 
 <p align="center">
   <img width="400" height="300" src="images/Explained-variance-by-components.png">
 </p>
+I have decided to choose 13 components that collectively explain 96% of the cumulative variance. This decision strikes a balance between preserving information and reducing dimensionality.
 
 ### Elbow method:
 <br>
