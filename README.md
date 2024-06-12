@@ -197,3 +197,10 @@ Cluster 2: **Senior Balanced Preferences**
 <p align="center">
   <img width="600" height="400" src="images/Elbow-method.png">
 </p>
+
+### Silhouette method
+<br>
+
+<p align="center">
+  <img width="450" height="350" src="images/Silhoutte-method.png">
+</p>
