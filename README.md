@@ -177,37 +177,44 @@ Cluster 2: **Senior Balanced Preferences**
 - *Room Type*: Balanced preference between King Size and Twin Beds.
 - *Age*: Predominantly aged 50-59, followed by those aged 60 and above.
 
-### Dendogram
+### Dendogram: 
 <br>
 
 <p align="center">
   <img width="700" height="300" src="images/Dendogram.png">
 </p>
 
-### Explained varience by components
+### Explained varience by components:
 <br>
 
 <p align="center">
   <img width="400" height="300" src="images/Explained-variance-by-components.png">
 </p>
 
-### Elbow method
+### Elbow method:
 <br>
 
 <p align="center">
   <img width="550" height="350" src="images/Elbow-method.png">
 </p>
 
-### Silhouette method
+### Silhouette method:
 <br>
 
 <p align="center">
   <img width="400" height="300" src="images/Silhoutte-score.png">
 </p>
 
-### Silhouette plot in 3 center cluster
+### Silhouette plot in 3 center cluster:
 <br>
 
 <p align="center">
   <img width="450" height="350" src="images/Silhoutte-plot.png">
+</p>
+
+### Cluster cardinality:
+<br>
+
+<p align="center">
+  <img width="450" height="350" src="images/Cluster-cardinality.png">
 </p>
