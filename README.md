@@ -188,19 +188,19 @@ Cluster 2: **Senior Balanced Preferences**
 <br>
 
 <p align="center">
-  <img width="450" height="350" src="images/Explained-variance-by-components.png">
+  <img width="400" height="300" src="images/Explained-variance-by-components.png">
 </p>
 
 ### Elbow method
 <br>
 
 <p align="center">
-  <img width="600" height="400" src="images/Elbow-method.png">
+  <img width="550" height="350" src="images/Elbow-method.png">
 </p>
 
 ### Silhouette method
 <br>
 
 <p align="center">
-  <img width="450" height="350" src="images/Silhoutte-score.png">
+  <img width="400" height="300" src="images/Silhoutte-score.png">
 </p>
