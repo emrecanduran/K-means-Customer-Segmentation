@@ -216,5 +216,19 @@ Cluster 2: **Senior Balanced Preferences**
 <br>
 
 <p align="center">
-  <img width="450" height="350" src="images/Cluster-cardinality.png">
+  <img width="400" height="300" src="images/Cluster-cardinality.png">
+</p>
+
+### Cluster magnitude:
+<br>
+
+<p align="center">
+  <img width="400" height="300" src="images/Cluster-magnitude.png">
+</p>
+
+### Cluster vs Magnitude:
+<br>
+
+<p align="center">
+  <img width="400" height="300" src="images/Cardinality-magnitude.png">
 </p>
