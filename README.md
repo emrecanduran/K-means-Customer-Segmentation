@@ -176,3 +176,8 @@ Cluster 2: **Senior Balanced Preferences**
 - *Nationality*: Highest percentage of "Others".
 - *Room Type*: Balanced preference between King Size and Twin Beds.
 - *Age*: Predominantly aged 50-59, followed by those aged 60 and above.
+
+**Dendogram**
+<p align="center">
+  <img width="500" height="350" src="images/Dendogram.png">
+</p>
