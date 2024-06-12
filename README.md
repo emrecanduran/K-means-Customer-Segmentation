@@ -132,6 +132,28 @@ pd.set_option('display.max_columns', None)
 ### Results
 <br>
 
+| Attribute                                  | Cluster 0    | Cluster 1    | Cluster 2    |
+|--------------------------------------------|--------------|--------------|--------------|
+| Average Lead Time                          | 71.228237    | 78.252560    | 82.615470    |
+| Distribution Channel - Others              | 0.031449     | 0.051542     | 0.037599     |
+| Distribution Channel - Travel Agent/Operator| 0.871996     | 0.803395     | 0.835719     |
+| Nationality - DEU                          | 0.094041     | 0.157058     | 0.102660     |
+| Nationality - FRA                          | 0.036783     | 0.290467     | 0.103705     |
+| Nationality - GBR                          | 0.112249     | 0.120509     | 0.073908     |
+| Nationality - Others                       | 0.617030     | 0.227496     | 0.623764     |
+| Nationality - PRT                          | 0.139897     | 0.204470     | 0.095964     |
+| Persons Nights                             | 5.349068     | 5.359943     | 5.655219     |
+| SR King Size Bed                           | 0.658718     | 0.155361     | 0.241629     |
+| SR Twin Bed                                | 0.068906     | 0.155813     | 0.164281     |
+| Total Revenue                              | 370.426359   | 363.866088   | 386.369934   |
+| Age Bins - 20-29                           | 0.120893     | 0.154512     | 0.106285     |
+| Age Bins - 30-39                           | 0.572707     | 0.053805     | 0.000000     |
+| Age Bins - 40-49                           | 0.123713     | 0.557624     | 0.000000     |
+| Age Bins - 50-59                           | 0.000000     | 0.000000     | 0.704675     |
+| Age Bins - >=60                            | 0.165216     | 0.204413     | 0.163482     |
+| Age Bins - Others                          | 0.017472     | 0.029646     | 0.025558     |
+<br>
+
 Cluster 0: **Young King-Sizers**
 
 - *Average Lead Time*: 71.23 days (shortest).
