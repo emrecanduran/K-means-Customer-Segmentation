@@ -226,7 +226,7 @@ Cluster 2: **Senior Balanced Preferences**
   <img width="400" height="300" src="images/Cluster-magnitude.png">
 </p>
 
-### Cluster vs Magnitude:
+### Cardinality vs Magnitude:
 <br>
 
 <p align="center">
