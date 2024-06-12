@@ -190,3 +190,10 @@ Cluster 2: **Senior Balanced Preferences**
 <p align="center">
   <img width="450" height="350" src="images/Explained-variance-by-components.png">
 </p>
+
+### Elbow method
+<br>
+
+<p align="center">
+  <img width="450" height="350" src="images/Elbow-method.png">
+</p>
