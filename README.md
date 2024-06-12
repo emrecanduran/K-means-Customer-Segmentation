@@ -132,21 +132,23 @@ pd.set_option('display.max_columns', None)
 ### Results
 <br>
 
-Cluster 0: Young King-Sizers
+Cluster 0: **Young King-Sizers**
 
 Average Lead Time: 71.23 days (shortest).
 Distribution Channel: Highest preference for "Travel Agent/Operator".
 Nationality: Higher representation of Portuguese (PRT) nationals.
 Room Type: Prefer King Size Beds.
 Age: Predominantly aged 30-39.
-Cluster 1: Middle-Aged Twin-Bedders
+
+Cluster 1: **Middle-Aged Twin-Bedders**
 
 Average Lead Time: 78.25 days.
 Distribution Channel: Strong preference for "Travel Agent/Operator".
 Nationality: Higher prevalence of German (DEU) and French (FRA) nationals.
 Room Type: Prefer Twin Beds.
 Age: Predominantly aged 40-49.
-Cluster 2: Senior Balanced Preferences
+
+Cluster 2: **Senior Balanced Preferences**
 
 Average Lead Time: 82.62 days (longest).
 Nationality: Highest percentage of "Others".
